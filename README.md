@@ -3,11 +3,10 @@ This repository is the official implementation for the paper: **DUSK: Do Not Unl
 
 
 <p align="center">
-  <a href="https://ai-isl.github.io/"> 🏠 Homepage</a> |
-  <a href="https://ai-isl.github.io/"> 📜 Paper</a> | 
+  <a href="https://ai-isl.github.io/dusk"> 🏠 Homepage</a> |
+  <a href="https://www.arxiv.org/pdf/2505.15209"> 📜 Paper</a> | 
   <a href="https://huggingface.co/datasets/AI-ISL/DUSK"> 🤗 Dataset</a>
 </p>
-
 
 ## Introduction
 ![Overview.](file/Overview.png)
